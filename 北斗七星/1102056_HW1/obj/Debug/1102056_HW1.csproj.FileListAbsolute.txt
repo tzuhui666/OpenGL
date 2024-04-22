@@ -1,0 +1,17 @@
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\1102056_HW1.exe.config
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\1102056_HW1.exe
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\1102056_HW1.pdb
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.OpenGl.dll
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.FreeGlut.xml
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.OpenGl.xml
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.csproj.AssemblyReference.cache
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\_1102056_HW1.Form1.resources
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\_1102056_HW1.Properties.Resources.resources
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.csproj.GenerateResource.cache
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.csproj.CoreCompileInputs.cache
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.csproj.CopyComplete
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.exe
+C:\Users\my920\Desktop\OpenGl\功課\1102056_HW1\1102056_HW1\obj\Debug\1102056_HW1.pdb
